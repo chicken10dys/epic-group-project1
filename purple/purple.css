@@ -1,21 +1,25 @@
+header{
+    color: #6247AA;
+    font-weight: bold;
+}
+
 /* Nav tomfoolery */
 nav{
-    background-color:#D2B7E5;
-
+    background-color:#C19EE0;
 }
 nav a{
     background-color: #B185DB;
 }   
 img{
     border-color:  #6247AA;
-
 }
 body{
     background-color: #DEC9E9;
 }
-div{
-    background-color: #D2B7E5;
-}
 div div{
-    background-color: #B185DB;
+    background-color: #C19EE0;
+}
+article h2{
+    color: #6247AA;
+    font-weight: bold;
 }

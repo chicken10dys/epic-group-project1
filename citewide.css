@@ -1,17 +1,30 @@
+/* Header  */
+header h1{
+    text-align: center;
+}
 /* Nav tomfoolery */
+
+nav{
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+    justify-content: center;
+
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    
+} 
 nav a{
     padding: 5px;
     margin: 10px;
     text-decoration: none;
     color: black;
 
+
 }
-nav{
-    text-align: center;
-    padding: 10px;
-    margin: 10px;
-    
-}
+
 /* Flexbox gallery shenanagins */
 .gallery{
     display: flex;
@@ -20,6 +33,7 @@ nav{
     justify-content: space-evenly;
 }
 .gallery div{
+    margin-top: 50px;
     padding: 20px;
     border-radius: 20px;
     max-width: 300px;
@@ -28,4 +42,15 @@ nav{
     border-style: ridge;
     border-width: 5px;
     width: 280px;
+}
+
+
+article{
+    height: 100vh;
+}
+article h2{
+
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
 }

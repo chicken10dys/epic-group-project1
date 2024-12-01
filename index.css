@@ -1,0 +1,23 @@
+/* Nav tomfoolery */
+nav{
+    background-color:#F8F9FA;
+}
+nav a{
+    background-color: #DEE2E6;
+}   
+img{
+    border-color:  #212529;
+}
+body{
+    background-color: #F8F9FA;
+}
+div{
+    background-color: #DEE2E6;
+}
+div div{
+    background-color: #6C757D;
+}
+
+article{
+    background-color: #CED4DA;
+}
