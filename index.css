@@ -1,6 +1,6 @@
 /* Nav tomfoolery */
 nav{
-    background-color:#F8F9FA;
+    background-color:#CED4DA;
 }
 nav a{
     background-color: #DEE2E6;
@@ -11,13 +11,28 @@ img{
 body{
     background-color: #F8F9FA;
 }
-div{
-    background-color: #DEE2E6;
-}
+
 div div{
     background-color: #6C757D;
 }
 
-article{
-    background-color: #CED4DA;
+.purple {
+    border-color:  #6247AA;
+    background-color: #C19EE0;
+}
+.pink{
+    border-color: hotpink;
+    background-color: lightpink;
+}
+.red{
+    border-color:  #aa4747;
+    background-color: #db8585;
+}
+.blue{
+    border-color:  #4774aa;
+    background-color: #67a6d9;
+}
+
+footer{
+    background-color:#CED4DA;
 }
