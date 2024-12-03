@@ -46,11 +46,19 @@ nav a{
 
 
 article{
-    height: 100vh;
+    height: 70vh
 }
 article h2{
 
     max-width: 500px;
     margin: 0 auto;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 50px;
+    box-sizing: border-box;
     text-align: center;
 }
