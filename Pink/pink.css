@@ -1,10 +1,11 @@
 header{
-    color: rgb(248, 145, 200);
+    color: rgb(240, 183, 200);
     background-color: rgb(236, 83, 134);
     
 }
 body{
     background-color: hotpink;
+    color: rgb(240, 183, 200);
 }
 nav a{
     background-color: rgb(219, 57, 111);
